@@ -1,1 +1,0 @@
-# hikvision-monitor-config
